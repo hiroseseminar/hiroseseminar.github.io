@@ -29,7 +29,7 @@ a {
 @media screen and (max-width: 480px){
 .top-wrapper {
   background-image: url(https://github.com/hiroseseminar/hiroseseminar.github.io/blob/master/books.jpg);
-  background-size: cover;
+  background-size: contain;
   color:white;
   text-align: center;
 }
