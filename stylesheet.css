@@ -22,10 +22,6 @@ a {
 .top-wrapper {
   padding: 250px 0 150px 0;
   background-image: url(https://www.pakutaso.com/shared/img/thumb/pakuidsafasdfasdf_TP_V.jpg);
-  
-  background:#ddd url(image.jpg) no-repeat center center;
-  background-size:contain;
-  
   background-size: cover;
   color:white;
   text-align: center;
