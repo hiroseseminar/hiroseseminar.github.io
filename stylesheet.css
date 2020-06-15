@@ -25,13 +25,6 @@ a {
   background-size: cover;
   color:white;
   text-align: center;
-  @media screen and (max-width: 480px){
-  background-image: url(https://github.com/hiroseseminar/hiroseseminar.github.io/blob/master/books.jpg);
-  background-size: contain;
-  color:white;
-  text-align: center;
-}
-
 }
 
 .top-wrapper h1 {
