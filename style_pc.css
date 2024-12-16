@@ -13,6 +13,7 @@ a {
 }
 
 .container {
+  color: #fffeee;
   max-width: 1170px;
   width: 100%;
   padding: 0 15px;
