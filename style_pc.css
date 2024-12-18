@@ -19,6 +19,7 @@ a {
   position :fixed;
   top:70;
   z-index: 10;
+  color: white;
 }
 .Eveppoi h1 {
   opacity:1;
