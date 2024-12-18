@@ -12,6 +12,26 @@ a {
   text-decoration: none;
 }
 
+.Eveppoi {
+  height: 250px;
+  width: 100px;
+  background-color: rgba(34, 49, 52, 0.9);
+  position :fixed;
+  top:70;
+  z-index: 10;
+}
+.Eveppoi h1 {
+  opacity:1;
+  font-size: 55px;
+  letter-spacing: 5px;
+}
+.Eveppoi h2{
+  opacity:0.99;
+}
+.Eveppoi p {
+  opacity: 0.99;
+}
+  
 .container {
     max-width: 1170px;
   width: 100%;
@@ -21,12 +41,12 @@ a {
 }
 
 .top-wrapper {
-    padding: 250px 0 230px 0;
+    padding: 250px 0 170px 0;
   background-image: url(topga_hirosezemi.jpg);
   background-color: #888888;
   background-blend-mode: hard-light;
   background-size: contain;
-  back-ground-position: 0px 80px;
+  back-ground-position: center top;
   color: white;
   text-align: center;
 }
