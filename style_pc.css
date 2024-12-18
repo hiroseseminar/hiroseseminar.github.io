@@ -21,11 +21,12 @@ a {
 }
 
 .top-wrapper {
-    padding: 250px 0 150px 0;
+    padding: 250px 0 230px 0;
   background-image: url(topga_hirosezemi.jpg);
   background-color: #dddddd;
   background-blend-mode: hard-light;
-  background-size: cover;
+  background-size: contain;
+  back-ground-position: 0px 80px;
   color: black;
   text-align: center;
 }
