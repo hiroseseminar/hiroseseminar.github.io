@@ -45,12 +45,12 @@ a {
     padding: 250px 0 170px 0;
   background-image: url(topga_hirosezemi.jpg);
   background-repeat: no-repeat;
-  background-color: #888888;
-  background-blend-mode: hard-light;
+  background-blend-mode: multiply;
+  background-size: cover;
+  color: white;
   background-size: cover;
 
   back-ground-position: center top;
-  color: white;
   text-align: center;
 }
 
